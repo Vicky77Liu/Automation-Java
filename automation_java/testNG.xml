@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="true" thread-count="4">
+
+<!-- parallel="true" thread-count="2"-->
+<!--<parameter name ="username" value="nirvanawgw@gmail.com"/>
+	<parameter name ="password" value="987654321QWER"/>
+-->
+  <test name="Test1">
+	<!-- <listeners>
+        <listener class-name="com.mushishi.selenium.util.RetryListener" />
+        <listener class-name="com.mushishi.selenium.util.TestNGListenerScreen" />
+    </listeners>-->	
+    <classes>
+      <class name="com.google.imooc.testCase.ChangeUserDetail"/>
+    </classes>
+  </test>
+  
+  <test name="Test2">
+    <classes>
+      <class name="com.google.imooc.testCase.CodingPageCourseList"/>
+    </classes>
+  </test>
+
+  <test name="Test3">
+    <classes>
+      <class name="com.google.imooc.testCase.Search"/>
+    </classes>
+  </test>
+
+  <test name="Test4">
+    <classes>
+      <class name="com.google.imooc.testCase.CartBuyFlow"/>
+    </classes>
+  </test>
+
+
+</suite>
