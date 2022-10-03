@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test thread-count="5" name="Test1(failed)">
+    <classes>
+      <class name="com.google.imooc.testCase.Login">
+        <methods>
+          <include name="testGetLoginFrom"/>
+          <include name="testLogin"/>
+          <include name="closeDriver"/>
+          <include name="startPage"/>
+          <include name="testGetUrl"/>
+        </methods>
+      </class> <!-- com.google.imooc.testCase.Login -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->
