@@ -1,0 +1,40 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-09-29T01:42:57.046Z",
+        "line": 5,
+        "name": "",
+        "description": "",
+        "id": "quote-predefined;",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [],
+        "tags": [
+          {
+            "name": "@quotePred"
+          },
+          {
+            "name": "@quotePred1"
+          }
+        ]
+      }
+    ],
+    "name": "Quote Predefined",
+    "description": "",
+    "id": "quote-predefined",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/quotePred.feature",
+    "tags": [
+      {
+        "name": "@quotePred",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

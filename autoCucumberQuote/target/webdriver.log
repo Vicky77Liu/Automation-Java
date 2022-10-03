@@ -1,0 +1,403 @@
+INFO 09:22:15:128 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 09:22:15:141 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/104.0.5112.79/chromedriver
+INFO 09:26:02:864 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 104.0.5112.79 (since Chrome 104 is installed in your machine)
+INFO 09:26:02:877 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/104.0.5112.79/chromedriver
+INFO 17:08:25:860 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 17:08:25:920 wdm.WebDriverManager logSeekRepo:882 Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+INFO 17:08:26:312 online.Downloader downloadAndExtract:124 Downloading https://chromedriver.storage.googleapis.com/105.0.5195.52/chromedriver_mac64.zip
+INFO 17:08:28:069 online.Downloader extract:178 Extracting binary from compressed file chromedriver_mac64.zip
+INFO 17:08:28:209 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:11:27:142 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:11:27:155 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:16:05:026 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:16:05:041 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:17:42:485 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:17:42:502 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:44:15:896 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:44:15:917 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:45:48:946 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:45:48:961 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:55:33:668 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:55:33:683 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 20:11:46:401 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 20:11:46:419 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 20:39:28:486 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 20:39:28:501 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 14:05:06:023 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 14:05:06:096 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 14:26:36:110 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 14:26:36:124 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:32:02:305 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:32:02:378 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:38:39:850 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:38:39:863 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:41:41:005 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:41:41:101 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 17:11:49:046 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 17:11:49:062 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 17:50:25:390 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 17:50:25:407 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:47:36:669 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:47:36:689 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 20:25:18:250 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 20:25:18:266 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 20:37:29:852 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 20:37:29:870 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 20:37:57:254 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 20:37:57:269 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 20:41:21:108 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 20:41:21:126 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 20:42:47:278 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 20:42:47:300 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:23:16:897 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:23:16:912 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:23:38:656 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:23:38:670 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:03:04:244 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:03:04:281 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:04:46:899 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:04:46:913 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:07:04:194 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:07:04:209 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:07:37:715 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:07:37:728 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:07:40:066 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:07:40:070 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:07:42:374 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:07:42:377 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:07:44:418 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:07:44:420 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:26:12:782 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:26:12:796 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:27:03:409 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:27:03:422 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:30:10:327 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:30:10:340 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:34:43:460 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:34:43:474 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:36:03:937 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:36:03:952 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:39:28:460 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:39:28:474 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:42:04:647 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:42:04:661 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 18:42:17:750 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 18:42:17:763 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 18:44:54:132 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 18:44:54:146 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 18:45:24:845 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 18:45:24:858 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 18:49:37:921 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 18:49:37:935 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 18:56:22:630 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 18:56:22:643 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 18:57:06:266 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 18:57:06:280 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 18:57:49:423 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 18:57:49:436 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:03:47:131 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:03:47:147 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:06:12:951 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:06:12:964 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:12:58:280 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:12:58:295 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:19:02:205 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:19:02:218 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:19:43:880 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:19:43:894 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:19:59:927 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:19:59:940 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:20:22:568 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:20:22:582 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:20:59:741 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:20:59:755 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:23:47:695 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:23:47:710 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 21:23:00:106 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 21:23:00:120 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:01:28:345 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:01:28:359 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:01:59:916 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:01:59:930 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:03:33:778 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:03:33:793 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:13:45:867 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:13:45:881 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:14:32:397 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:14:32:410 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:15:40:802 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:15:40:815 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:16:52:710 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:16:52:725 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:17:30:159 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:17:30:174 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:19:37:030 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:19:37:042 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:30:44:870 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:30:44:883 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:31:06:870 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:31:06:883 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:37:23:727 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:37:23:742 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:39:19:436 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:39:19:449 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:42:32:634 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:42:32:647 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:42:53:063 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:42:53:076 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:43:46:806 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:43:46:819 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:44:51:708 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:44:51:721 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:45:18:186 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:45:18:199 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:45:36:221 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:45:36:234 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:00:55:553 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:00:55:567 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:02:15:774 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:02:15:789 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:05:53:407 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:05:53:419 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:07:36:203 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:07:36:218 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:08:46:572 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:08:46:586 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:10:51:192 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:10:51:205 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:11:25:014 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:11:25:028 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:11:46:310 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:11:46:324 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:12:17:456 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:12:17:471 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:12:53:431 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:12:53:444 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:17:04:201 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:17:04:215 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:17:41:956 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:17:41:971 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:24:33:820 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:24:33:834 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:25:18:695 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:25:18:709 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:30:15:745 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:30:15:758 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:31:26:000 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:31:26:014 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:33:21:773 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:33:21:788 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:34:59:359 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:34:59:373 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:36:24:403 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:36:24:417 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:50:05:918 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:50:05:931 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:52:23:469 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:52:23:483 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:57:06:307 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:57:06:320 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:57:54:981 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:57:54:995 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:03:50:555 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:03:50:567 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:04:21:188 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:04:21:201 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:05:21:908 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:05:21:921 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:06:42:427 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:06:42:441 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:06:55:934 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:06:55:948 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:07:07:693 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:07:07:707 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:28:02:713 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:28:02:728 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:28:43:368 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:28:43:382 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:30:56:436 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:30:56:449 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:32:10:551 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:32:10:565 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:37:20:140 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:37:20:155 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:00:09:585 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:00:09:602 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:01:29:974 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:01:29:987 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:06:14:968 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:06:14:981 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:08:47:483 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:08:47:497 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:09:13:892 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:09:13:905 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:09:16:785 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:09:16:788 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:09:18:892 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:09:18:895 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:09:21:246 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:09:21:248 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:09:23:278 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:09:23:280 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:09:25:447 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:09:25:450 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:09:28:843 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:09:28:845 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:09:30:829 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:09:30:831 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:09:36:127 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:09:36:129 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:09:39:802 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:09:39:805 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:09:44:852 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:09:44:853 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:09:48:698 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:09:48:700 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:20:15:456 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:20:15:470 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:20:33:267 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:20:33:281 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:27:30:111 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:27:30:125 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:28:35:107 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:28:35:121 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:29:31:813 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:29:31:827 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 16:29:47:434 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 16:29:47:447 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 17:03:12:046 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 17:03:12:059 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 17:04:28:931 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 17:04:28:946 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 17:10:21:004 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 17:10:21:020 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 17:10:24:168 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 17:10:24:171 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 17:10:26:326 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 17:10:26:332 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 18:59:08:021 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 18:59:08:042 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 18:59:24:822 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 18:59:24:838 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:00:25:890 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:00:25:905 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:01:06:590 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:01:06:604 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:09:15:029 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:09:15:043 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:09:48:633 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:09:48:646 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:11:10:472 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:11:10:491 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:41:57:140 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:41:57:156 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:43:40:040 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:43:40:055 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:48:03:685 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:48:03:700 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:51:21:276 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:51:21:291 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:53:15:166 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:53:15:182 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 19:53:44:983 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 19:53:44:997 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 20:22:17:859 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 20:22:17:873 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 20:25:43:961 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 20:25:43:976 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 20:41:21:065 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 20:41:21:080 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 21:36:50:373 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 21:36:50:390 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 21:52:39:632 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 21:52:39:647 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 21:58:38:308 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 21:58:38:324 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 20:58:35:491 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 20:58:35:510 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 21:34:39:567 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 21:34:39:581 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 21:35:24:435 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 21:35:24:449 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 21:37:00:449 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 21:37:00:463 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 21:37:50:240 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 21:37:50:256 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 21:42:38:122 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 21:42:38:150 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 21:47:22:749 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 21:47:22:773 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 21:53:08:427 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 21:53:08:440 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 21:53:41:897 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 21:53:41:913 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 21:54:15:079 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 21:54:15:093 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 21:57:53:173 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 21:57:53:193 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:04:15:767 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:04:15:781 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:05:38:209 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:05:38:222 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 22:06:07:720 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 22:06:07:734 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:13:15:330 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:13:15:343 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:13:19:582 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:13:19:585 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:14:11:848 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:14:11:862 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:14:14:029 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:14:14:032 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:14:46:880 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:14:46:895 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:15:22:325 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:15:22:341 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:17:03:508 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:17:03:540 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:17:46:265 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:17:46:278 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:26:23:950 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:26:23:971 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:31:47:108 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:31:47:122 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:31:52:698 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:31:52:700 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:48:23:188 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:48:23:201 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:48:54:157 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:48:54:171 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 09:49:17:468 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 09:49:17:480 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:09:40:272 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:09:40:294 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:10:19:086 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:10:19:107 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:10:44:609 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:10:44:632 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:11:26:654 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:11:26:678 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:22:15:308 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:22:15:320 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:32:23:874 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:32:23:900 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:33:08:626 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:33:08:641 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:42:11:331 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:42:11:344 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:43:14:907 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:43:14:920 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:46:20:680 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:46:20:693 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:48:34:728 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:48:34:747 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:55:06:321 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:55:06:335 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:56:05:223 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:56:05:236 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:56:18:141 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:56:18:154 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 10:58:49:154 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 10:58:49:171 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
+INFO 11:00:12:076 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 105.0.5195.52 (since Chrome 105 is installed in your machine)
+INFO 11:00:12:096 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/kurt/.m2/repository/webdriver/chromedriver/mac64/105.0.5195.52/chromedriver
